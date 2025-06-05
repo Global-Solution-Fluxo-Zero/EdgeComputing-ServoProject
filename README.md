@@ -90,9 +90,9 @@ As conexões de alimentação (5V e GND) são distribuídas pela protoboard conf
     *   Clique sobre ele para revelar o controle deslizante ("distance"). Este valor simula a distância entre o sensor e a superfície da água.
     *   **Calibração:** O sistema, ao iniciar, lê a distância configurada no sensor (padrão 400cm no Wokwi se não alterado antes do play). Se `RAIN_CM_DANGER = 5`, o `floor_limit` será `400 - 5 = 395 cm`.
     *   **Simulando Água Subindo (Ativar Drenagem):** Reduza o valor "distance" no sensor para *menos de 395 cm* (ex: 390 cm). Isso simula a água subindo.
-        *   **Observar:** O buzzer deve soar, o LED deve acender, e a escotilha (servo) deve **abrir** (ir para 90 graus). *(Veja a Nota abaixo sobre a lógica do código)*.
+        *   **Observar:** O buzzer deve soar, o LED deve acender, e a escotilha (servo) deve **abrir** (ir para 90 graus).
     *   **Simulando Água Descendo (Parar Drenagem):** Aumente o valor "distance" para *mais de 395 cm*.
-        *   **Observar:** O buzzer deve parar, o LED deve apagar, e a escotilha deve **fechar** (ir para 0 graus). *(Veja a Nota abaixo)*.
+        *   **Observar:** O buzzer deve parar, o LED deve apagar, e a escotilha deve **fechar** (ir para 0 graus).
 
 5.  **Testar o Modo Manual:**
     *   Com a simulação em execução, clique no pushbutton (`btn1`).
