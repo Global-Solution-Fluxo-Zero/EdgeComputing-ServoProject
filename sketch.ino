@@ -62,7 +62,7 @@ void setup() {
 void loop() {
   delay(15); //Responsividade para o Botão
   if(digitalRead(BUTTON) == LOW){ //Se botão não for apertado, entra nesse if
-    if (readDistanceCM() < floor_limit){ //Se ele atinge o valor esse valor, quer dizer que ele atingiu a nível da camada
+    if (readDistanceCM() < floor_limit){ //Se ele atinge esse valor menor, quer dizer que ele nível crítico, significa que altura diminuiu porque a água subiu
       tone(BUZZER, 131, 1000); //Emite alerta
       digitalWrite(LED, HIGH); //Liga led
       closeTrapdoor();
