@@ -4,7 +4,7 @@ Este projeto foi desenvolvido para oferecer uma solução automatizada e intelig
 
 Este dispositivo utiliza um sensor ultrassônico para monitorar o nível da água em tempo real, permitindo que a escotilha seja operada automaticamente para facilitar a drenagem quando necessário, ou controlada manualmente conforme a situação exigir.
 
-**Link para o Wokwi:** [https://wokwi.com/projects/432609669649223681](https://wokwi.com/projects/432609669649223681)
+**Link para o Wokwi:** [https://wokwi.com/projects/432609669649223681](https://wokwi.com/projects/432609669649223681) <br>
 **Mídias do Projeto:**
 *   **Vídeo Demonstrativo (YouTube):** [Link para seu vídeo aqui, se houver]
 *   **Imagem do Circuito/Protótipo:**
