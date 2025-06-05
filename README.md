@@ -1,5 +1,11 @@
 # Sistema de Controle de Escotilha para Drenagem de Enchentes
 
+|RM|Nome|
+|---|---|
+|563995|Azor Biagioni Tartuce|
+|566284|Daniel Oliveira de Souza|
+|562757|Lucas de Almeida Pires|
+
 Este projeto foi desenvolvido para oferecer uma solução automatizada e inteligente para o controle de escotilhas em cenários de risco de enchentes. Enchentes podem causar danos significativos a propriedades e infraestruturas, e um sistema de drenagem eficiente é crucial para mitigar esses impactos.
 
 Este dispositivo utiliza um sensor ultrassônico para monitorar o nível da água em tempo real, permitindo que a escotilha seja operada automaticamente para facilitar a drenagem quando necessário, ou controlada manualmente conforme a situação exigir.
