@@ -7,7 +7,8 @@ Este dispositivo utiliza um sensor ultrassônico para monitorar o nível da águ
 **Link para o Wokwi:** [https://wokwi.com/projects/432609669649223681](https://wokwi.com/projects/432609669649223681)
 **Mídias do Projeto:**
 *   **Vídeo Demonstrativo (YouTube):** [Link para seu vídeo aqui, se houver]
-*   **Imagem do Circuito/Protótipo:** [https://github.com/Global-Solution-Fluxo-Zero/EdgeComputing-ServoProject/blob/main/projetoesquema.png?raw=true]
+*   **Imagem do Circuito/Protótipo:**
+  <img src="https://github.com/Global-Solution-Fluxo-Zero/EdgeComputing-ServoProject/blob/main/projetoesquema.png?raw=true">
 
 ---
 
